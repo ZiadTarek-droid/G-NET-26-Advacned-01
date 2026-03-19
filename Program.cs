@@ -154,6 +154,12 @@ namespace ConsoleApp1
             //    T GetItem();
             //} 
             #endregion
+            #region Q16
+            //    interface IConsumer<in T>
+            //{
+            //    void Consume(T item);
+            //} 
+            #endregion
         }
     }
 }
