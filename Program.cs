@@ -106,6 +106,15 @@ namespace ConsoleApp1
             //    }
             //} 
             #endregion
+            #region Q11
+            //    class Animal { }
+
+            //class Dog : Animal { }
+
+            //class Example<T> where T : Animal
+            //{
+            //} 
+            #endregion
         }
     }
 }
