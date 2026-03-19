@@ -172,6 +172,16 @@ namespace ConsoleApp1
             //    public static int Count;
             //} 
             #endregion
+            #region Q19
+            //    class Base<T>
+            //{
+            //    public T Value;
+            //}
+
+            //class Derived : Base<int>
+            //{
+            //} 
+            #endregion
         }
     }
 }
