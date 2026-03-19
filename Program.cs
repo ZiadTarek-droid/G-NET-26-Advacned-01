@@ -120,6 +120,15 @@ namespace ConsoleApp1
             //{
             //} 
             #endregion
+            #region Q13
+            //Returns the default value of a type:
+
+            //int → 0
+
+            //bool → false
+
+            //reference types → null 
+            #endregion
         }
     }
 }
