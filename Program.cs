@@ -77,6 +77,12 @@ namespace ConsoleApp1
             //    public T Value;
             //} 
             #endregion
+            #region Q8
+            //    class Example<T> where T : class
+            //{
+            //    public T Data;
+            //} 
+            #endregion
         }
     }
 }
