@@ -92,6 +92,20 @@ namespace ConsoleApp1
             //    }
             //} 
             #endregion
+            #region Q10
+            //    interface IPrint
+            //{
+            //    void Print();
+            //}
+
+            //class Printer<T> where T : IPrint
+            //{
+            //    public void PrintItem(T item)
+            //    {
+            //        item.Print();
+            //    }
+            //} 
+            #endregion
         }
     }
 }
