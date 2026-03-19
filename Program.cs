@@ -83,6 +83,15 @@ namespace ConsoleApp1
             //    public T Data;
             //} 
             #endregion
+            #region Q9
+            //    class Example<T> where T : new()
+            //{
+            //    public T Create()
+            //    {
+            //        return new T();
+            //    }
+            //} 
+            #endregion
         }
     }
 }
