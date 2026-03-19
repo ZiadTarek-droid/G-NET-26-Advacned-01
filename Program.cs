@@ -148,6 +148,12 @@ namespace ConsoleApp1
             //    }
             //} 
             #endregion
+            #region Q15
+            //    interface IProducer<out T>
+            //{
+            //    T GetItem();
+            //} 
+            #endregion
         }
     }
 }
