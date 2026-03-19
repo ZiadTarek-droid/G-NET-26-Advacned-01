@@ -115,6 +115,11 @@ namespace ConsoleApp1
             //{
             //} 
             #endregion
+            #region Q12
+            //    class Example<T> where T : class, IComparable, new()
+            //{
+            //} 
+            #endregion
         }
     }
 }
