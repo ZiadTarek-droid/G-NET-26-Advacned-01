@@ -63,6 +63,20 @@ namespace ConsoleApp1
             //    b = temp;
             //} 
             #endregion
+            #region Q6
+            //    interface IRepository<T>
+            //{
+            //    void Add(T item);
+            //    T Get(int id);
+            //    void Remove(int id);
+            //} 
+            #endregion
+            #region Q7
+            //    class Example<T> where T : struct
+            //{
+            //    public T Value;
+            //} 
+            #endregion
         }
     }
 }
