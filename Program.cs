@@ -166,6 +166,12 @@ namespace ConsoleApp1
             //Used in return types        Used in parameters
             //   Derived → Base              Base → Derived 
             #endregion
+            #region Q18
+            //    class Test<T>
+            //{
+            //    public static int Count;
+            //} 
+            #endregion
         }
     }
 }
