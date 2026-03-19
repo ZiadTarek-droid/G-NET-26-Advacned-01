@@ -182,6 +182,52 @@ namespace ConsoleApp1
             //{
             //} 
             #endregion
+            #region Q20
+            //    class Cache<TKey, TValue>
+            //{
+            //    private class CacheItem
+            //    {
+            //        public TValue Value;
+            //        public DateTime Expiry;
+            //    }
+
+            //    private Dictionary<TKey, CacheItem> data = new Dictionary<TKey, CacheItem>();
+
+            //    public void Add(TKey key, TValue value, int seconds)
+            //    {
+            //        data[key] = new CacheItem
+            //        {
+            //            Value = value,
+            //            Expiry = DateTime.Now.AddSeconds(seconds)
+            //        };
+            //    }
+
+            //    public TValue Get(TKey key)
+            //    {
+            //        if (data.ContainsKey(key))
+            //        {
+            //            var item = data[key];
+
+            //            if (DateTime.Now <= item.Expiry)
+            //                return item.Value;
+
+            //            data.Remove(key);
+            //        }
+
+            //        return default;
+            //    }
+
+            //    public void Remove(TKey key)
+            //    {
+            //        data.Remove(key);
+            //    }
+
+            //    public bool Contains(TKey key)
+            //    {
+            //        return data.ContainsKey(key) && DateTime.Now <= data[key].Expiry;
+            //    }
+            //} 
+            #endregion
         }
     }
 }
