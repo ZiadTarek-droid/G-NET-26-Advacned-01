@@ -160,6 +160,12 @@ namespace ConsoleApp1
             //    void Consume(T item);
             //} 
             #endregion
+            #region Q17
+            //       Covariance            Contravariance
+            //        out	                  in
+            //Used in return types        Used in parameters
+            //   Derived → Base              Base → Derived 
+            #endregion
         }
     }
 }
