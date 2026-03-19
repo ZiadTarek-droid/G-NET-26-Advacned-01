@@ -129,6 +129,25 @@ namespace ConsoleApp1
 
             //reference types → null 
             #endregion
+            #region Q14
+            //    class SafeList<T>
+            //{
+            //    private List<T> list = new List<T>();
+
+            //    public void Add(T item)
+            //    {
+            //        list.Add(item);
+            //    }
+
+            //    public T Get(int index)
+            //    {
+            //        if (index < 0 || index >= list.Count)
+            //            return default;
+
+            //        return list[index];
+            //    }
+            //} 
+            #endregion
         }
     }
 }
