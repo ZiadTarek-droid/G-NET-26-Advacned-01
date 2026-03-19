@@ -47,6 +47,14 @@ namespace ConsoleApp1
             //    }
             //} 
             #endregion
+            #region Q4
+            //static void Swap<T>(ref T a, ref T b)
+            //{
+            //    T temp = a;
+            //    a = b;
+            //    b = temp;
+            //} 
+            #endregion
         }
     }
 }
